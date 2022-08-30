@@ -1,0 +1,25 @@
+C:\Users\HAL\AppData\Local\Temporary Projects\Ocjene\bin\Debug\Ocjene.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\Ocjene\bin\Debug\Ocjene.pdb
+C:\Users\HAL\AppData\Local\Temporary Projects\Ocjene\obj\x86\Debug\Ocjene.Form1.resources
+C:\Users\HAL\AppData\Local\Temporary Projects\Ocjene\obj\x86\Debug\Ocjene.Properties.Resources.resources
+C:\Users\HAL\AppData\Local\Temporary Projects\Ocjene\obj\x86\Debug\Ocjene.csproj.GenerateResource.Cache
+C:\Users\HAL\AppData\Local\Temporary Projects\Ocjene\obj\x86\Debug\Ocjene.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\Ocjene\obj\x86\Debug\Ocjene.pdb
+C:\Users\HAL\Desktop\Ocjene\Ocjene\obj\x86\Debug\Ocjene.exe
+C:\Users\HAL\Desktop\Ocjene\Ocjene\obj\x86\Debug\Ocjene.pdb
+C:\Users\HAL\Desktop\Ocjene\Ocjene\bin\Debug\Ocjene.exe
+C:\Users\HAL\Desktop\Ocjene\Ocjene\bin\Debug\Ocjene.pdb
+C:\Users\HAL\Desktop\Ocjene\Ocjene\obj\x86\Debug\Ocjene.Form1.resources
+C:\Users\HAL\Desktop\Ocjene\Ocjene\obj\x86\Debug\Ocjene.Properties.Resources.resources
+C:\Users\HAL\Desktop\Ocjene\Ocjene\obj\x86\Debug\Ocjene.csproj.GenerateResource.Cache
+C:\Users\HAL\Desktop\Ocjene\Ocjene\obj\x86\Debug\Ocjene.csprojResolveAssemblyReference.cache
+C:\Users\HAL\Desktop\dox\Ocjene\Ocjene\obj\x86\Debug\Ocjene.exe
+C:\Users\HAL\Desktop\dox\Ocjene\Ocjene\obj\x86\Debug\Ocjene.pdb
+C:\Users\HAL\Desktop\dox\Ocjene\Ocjene\bin\Debug\Ocjene.exe
+C:\Users\HAL\Desktop\dox\Ocjene\Ocjene\bin\Debug\Ocjene.pdb
+C:\Users\HAL\Desktop\dox\Ocjene\Ocjene\obj\x86\Debug\Ocjene.csprojResolveAssemblyReference.cache
+C:\Users\HAL\Desktop\dox\Ocjene\Ocjene\obj\x86\Debug\Ocjene.Form1.resources
+C:\Users\HAL\Desktop\dox\Ocjene\Ocjene\obj\x86\Debug\Ocjene.Properties.Resources.resources
+C:\Users\HAL\Desktop\dox\Ocjene\Ocjene\obj\x86\Debug\Ocjene.csproj.GenerateResource.Cache
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\PPR_Winforms\Ocjene\obj\x86\Debug\Ocjene.exe
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\PPR_Winforms\Ocjene\obj\x86\Debug\Ocjene.pdb
